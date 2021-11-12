@@ -1,0 +1,83 @@
+body{
+    background-image: url(file:///C:/Users/BlackPen/Desktop/WebDevSchool/CodeRepository/FrontendMentorChallenges/DownloadedFiles/order-summary-component-main/images/pattern-background-desktop.svg);
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.container{
+    background-color: white;
+    margin: 80px auto;
+    border-radius: 15px;
+    width: 450px; 
+}
+
+.white-main{
+    padding: 30px;
+}
+
+.thumbnail{
+    border-radius: 15px 15px 0 0;
+}
+
+#jumbotron{
+    text-align: center;
+}
+
+#overall-annual-plan-div{
+    background-color: #ebedf0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#imgmusic{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+#imga{
+    margin-top: 7%;
+}
+
+#button{
+    padding: 15px;
+    width: 390px;
+    border: none; 
+    background-color: #221799;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 20px 5px 20px hsl(225, 100%, 94%);
+}
+
+#cancel{
+    text-align: center;
+}
+
+#jumbotron > h1{
+    font-weight: 900;
+}
+
+#jumbotron > p{
+    font-size: larger;
+    font-weight: 500;
+}
+
+#annualplan{
+    font-weight: 700;
+}
+
+#image1{
+    display: flex;
+}
+
+button{
+    cursor: pointer;
+}
+
+#footCredit{
+    margin: auto;
+    width: 200px;
+}
+
+
